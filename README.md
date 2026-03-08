@@ -44,7 +44,7 @@ The circuit includes:
 
 ### LNA Schematic
 
-![LNA Schematic]()
+![LNA Schematic](LNA_Schematic.png)
 
 ---
 

@@ -44,7 +44,7 @@ The circuit includes:
 
 ### LNA Schematic
 
-![LNA Schematic](LNA_Schematic.png)
+![LNA Schematic](circuit/LNA_Schematic.png)
 
 ---
 
@@ -58,7 +58,7 @@ A testbench was created to evaluate the RF performance of the LNA using:
 
 ### Testbench Circuit
 
-![Testbench](LNA_TB.png)
+![Testbench](circuit/LNA_TB.png)
 
 ---
 

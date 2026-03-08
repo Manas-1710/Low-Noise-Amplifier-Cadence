@@ -1,5 +1,3 @@
-# Low-Noise-Amplifier-Cadence
-Transistor-level design and RF simulation of a Low Noise Amplifier (LNA) in Cadence Virtuoso with gain, noise figure, and S-parameter analysis.
 # Low Noise Amplifier (LNA) Design using Cadence Virtuoso
 
 This project presents the design and RF simulation of a **Low Noise Amplifier (LNA)** implemented at the transistor level using **Cadence Virtuoso**.  
@@ -46,7 +44,7 @@ The circuit includes:
 
 ### LNA Schematic
 
-![LNA Schematic](images/lna_schematic.png)
+![LNA Schematic]()
 
 ---
 

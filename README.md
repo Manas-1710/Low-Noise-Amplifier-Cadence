@@ -68,7 +68,7 @@ A testbench was created to evaluate the RF performance of the LNA using:
 
 The available gain was evaluated across the RF frequency range.
 
-![Gain Plot](Screenshot 2026-03-08 080408.png)
+![Gain Plot](results/GA.png)
 
 Peak gain occurs around **1.56 GHz**.
 
@@ -78,7 +78,7 @@ Peak gain occurs around **1.56 GHz**.
 
 Noise analysis was performed to evaluate how much noise the amplifier introduces to the signal.
 
-![Noise Figure](NF.png)
+![Noise Figure](results/NF.png)
 
 ---
 
@@ -88,11 +88,11 @@ S-parameters were used to analyze the RF performance of the amplifier.
 
 #### S11 and S21 Response
 
-![S11 S21](S11-S21.png)
+![S11 S21](results/S11-S21.png)
 
 #### S12 and S22 Response
 
-![S12 S22](S12-S22.png)
+![S12 S22](results/S12-S22.png)
 
 ---
 

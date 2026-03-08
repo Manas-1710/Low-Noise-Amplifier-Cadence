@@ -31,7 +31,6 @@ The goal of this project is to design and analyze an LNA circuit and evaluate it
 | Design Tool | Cadence Virtuoso |
 | Supply Voltage (VDD) | 0.8 V |
 | Simulation Type | S-Parameter & Noise Analysis |
-| Frequency Range | 0.5 GHz – 10 GHz |
 
 ---
 

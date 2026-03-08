@@ -58,7 +58,7 @@ A testbench was created to evaluate the RF performance of the LNA using:
 
 ### Testbench Circuit
 
-![Testbench](images/lna_testbench.png)
+![Testbench](LNA_TB.png)
 
 ---
 
